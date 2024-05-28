@@ -6,5 +6,10 @@ public:
     virtual void pesan() = 0;
     //virtual void pesan(){
     //cout<<"pesan dari seseorang"<<endl;
-    }
+    //}
+};
+
+class joko :public seseorang{
+public:
+
 }
