@@ -11,4 +11,9 @@ public:
     string getSaklarNo(int i) {
         return skalarNo[i];
     }
+};
+
+int main() {
+    remoteLampu lampuRumah;
+    
 }
